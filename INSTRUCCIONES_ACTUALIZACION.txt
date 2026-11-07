@@ -1,0 +1,14 @@
+SPANISH CON NATIVOS - LOGOTIPO Y GALERÍA
+
+Esta versión incluye las 6 fotografías de experiencias con estudiantes,
+integradas en las páginas en español e inglés, y conserva el logotipo.
+
+PARA ACTUALIZAR GITHUB:
+1. Descomprime este ZIP.
+2. Abre github.com/spanishconnativos/spanishconnativos.github.io
+3. Selecciona Add file > Upload files.
+4. Arrastra el contenido descomprimido, NO el ZIP.
+5. Comprueba que index.html, index-es.html, index-en.html y las 6 fotos
+   experiencia-1.webp a experiencia-6.webp están incluidos.
+6. Pulsa Commit changes y espera a que GitHub Pages actualice el sitio.
+7. Revisa https://spanishconnativos.github.io/ en ambos idiomas.
