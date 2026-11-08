@@ -127,3 +127,5 @@ footer{background:#061638;color:#BFD0EE;padding:32px 0;font-size:13px}
 .brand-logo img{display:block;width:100%;height:auto}
 @media(max-width:1050px){.brand-logo{width:175px}.nav-inner{gap:12px}}
 @media(max-width:600px){.brand-logo{width:155px;max-width:48vw}.nav-inner{height:auto;min-height:78px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px}}
+
+.student-teaser{background:#f2f6ff;padding:65px 0}.student-teaser>.container{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:40px}.student-teaser h2{font-size:clamp(28px,3vw,42px);color:#08285c;margin:12px 0}.student-teaser p{color:#344767;line-height:1.7}.student-teaser img{width:100%;max-height:300px;object-fit:cover;border-radius:20px}.student-eyebrow{color:#1759b2;font-size:12px;font-weight:800;letter-spacing:2px}.student-button{display:inline-block;background:#ffca28;padding:14px 23px;border-radius:30px;color:#071d49;text-decoration:none;font-weight:800;margin-top:10px}@media(max-width:720px){.student-teaser>.container{grid-template-columns:1fr}}

@@ -1,0 +1,17 @@
+SPANISH CON NATIVOS — GALERÍA DE 15 FOTOGRAFÍAS
+
+Se conservaron las páginas originales y el logo. Se añadió la pestaña Nuestros estudiantes / Our Students.
+
+IMPORTANTE: Este paquete se basó en la última versión de la web con seis fotografías que preparamos en la conversación, porque el ZIP recién adjuntado contenía una versión anterior sin esas seis imágenes.
+
+PUBLICAR:
+1. Guarda una copia de tu sitio actual.
+2. Descomprime este archivo ZIP.
+3. Abre https://github.com/spanishconnativos/spanishconnativos.github.io
+4. En Code, elige Add file > Upload files.
+5. Sube TODOS los archivos y la carpeta assets (no el ZIP).
+6. Confirma que los archivos estudiantes.html, students-en.html, gallery.css y gallery.js estén en la raíz del repositorio.
+7. Pulsa Commit changes. Espera unos minutos y revisa las dos versiones.
+8. Comprueba https://spanishconnativos.github.io/estudiantes.html y https://spanishconnativos.github.io/students-en.html
+
+Antes de publicar, verifica el permiso de uso público de las fotografías y que no haya datos personales visibles en diplomas o gafetes. Puedes solicitar recortes o difuminados antes de publicarlas.
